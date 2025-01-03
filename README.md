@@ -6,7 +6,7 @@ Along with the project, I also made a website using Streamlit where you can inpu
 
 <!-- TODO: PUT GIF HERE -->
 
-![Streamlit GIF](/Pictures/ScreenRecording2025-01-03at2.50.33PM-ezgif.com-video-to-gif-converter.gif)
+![Streamlit GIF](/Pictures/WebApp.gif)
 
 ### Goal
 
