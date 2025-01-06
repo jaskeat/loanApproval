@@ -2,7 +2,7 @@
 
 This project is an analysis of a loan approval dataset to analyse and create a prediction model for loans. I have used Python with SciKit, Streamlit, Pandas and other packages to do this analysis.
 
-Along with the project, I also made a website using Streamlit where you can input various metrics to see the predicted result form the machine learning model.
+Along with the project, I also made a [Website]('https://jaskeatloanapproval.streamlit.app/) using Streamlit where you can input various metrics to see the predicted result form the machine learning model.
 
 <!-- TODO: PUT GIF HERE -->
 
